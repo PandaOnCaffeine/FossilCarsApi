@@ -1,0 +1,122 @@
+[
+  {
+    "rank": 1,
+    "model": "Citroën C3",
+    "quantity": 2268,
+    "changeQuantityProcent": -27
+  },
+  {
+    "rank": 2,
+    "model": "Peugeot 208",
+    "quantity": 2107,
+    "changeQuantityProcent": -24
+  },
+  {
+    "rank": 3,
+    "model": "Kia Ceed/Xceed",
+    "quantity": 1750,
+    "changeQuantityProcent": -1
+  },
+  {
+    "rank": 4,
+    "model": "Ford Kuga",
+    "quantity": 1619,
+    "changeQuantityProcent": -53
+  },
+  {
+    "rank": 5,
+    "model": "Toyota Yaris",
+    "quantity": 1515,
+    "changeQuantityProcent": -45
+  },
+  {
+    "rank": 6,
+    "model": "VW T-Roc",
+    "quantity": 1435,
+    "changeQuantityProcent": -7
+  },
+  {
+    "rank": 7,
+    "model": "Mercedes-Benz C-klasse",
+    "quantity": 1361,
+    "changeQuantityProcent": -9
+  },
+  {
+    "rank": 8,
+    "model": "Hyundai i10",
+    "quantity": 1300,
+    "changeQuantityProcent": -26
+  },
+  {
+    "rank": 9,
+    "model": "Nissan Qashqai",
+    "quantity": 1246,
+    "changeQuantityProcent": -42
+  },
+  {
+    "rank": 10,
+    "model": "Peugeot 2008",
+    "quantity": 1067,
+    "changeQuantityProcent": -29
+  },
+  {
+    "rank": 11,
+    "model": "Hyundai i20",
+    "quantity": 1043,
+    "changeQuantityProcent": 3
+  },
+  {
+    "rank": 12,
+    "model": "VW Polo",
+    "quantity": 1031,
+    "changeQuantityProcent": -30
+  },
+  {
+    "rank": 13,
+    "model": "Peugeot 3008",
+    "quantity": 1028,
+    "changeQuantityProcent": -22
+  },
+  {
+    "rank": 14,
+    "model": "VW Taigo",
+    "quantity": 978,
+    "changeQuantityProcent": 100
+  },
+  {
+    "rank": 15,
+    "model": "BMW 3-serie",
+    "quantity": 960,
+    "changeQuantityProcent": -50
+  },
+  {
+    "rank": 16,
+    "model": "Opel Corsa",
+    "quantity": 944,
+    "changeQuantityProcent": -53
+  },
+  {
+    "rank": 17,
+    "model": "Toyota Corolla",
+    "quantity": 935,
+    "changeQuantityProcent": -4
+  },
+  {
+    "rank": 18,
+    "model": "Cupra Formentor",
+    "quantity": 868,
+    "changeQuantityProcent": 145
+  },
+  {
+    "rank": 19,
+    "model": "Volvo XC40",
+    "quantity": 842,
+    "changeQuantityProcent": 1
+  },
+  {
+    "rank": 20,
+    "model": "VW T-Cross",
+    "quantity": 831,
+    "changeQuantityProcent": -37
+  }
+]
